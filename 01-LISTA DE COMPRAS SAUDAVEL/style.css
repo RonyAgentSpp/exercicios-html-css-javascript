@@ -1,0 +1,39 @@
+.lista {
+    background-color: rgb(233, 234, 234);
+    color: blueviolet;
+    font-size: 28px;
+    padding: 30px;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: rgb(233, 234, 234);
+}
+
+h1 {
+    background-color: rgb(184, 108, 254);
+    text-align: center;
+    margin-top: 0px;
+}
+
+h2 {
+    background-color: rgb(188, 248, 228); 
+    text-align: center;
+
+}
+
+footer {
+    background-color: blueviolet;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding: 2%;
+}
+
+.alimentos {
+  border: 2px solid;
+  width: 800px;
+  height: 100%;
+}
